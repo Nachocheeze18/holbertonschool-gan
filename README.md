@@ -8,3 +8,6 @@ https://wandb.ai/nachocheeze/dcgan_mnist/reports/VA_Model--Vmlldzo1ODUzNTgw?acce
 
 #Hyper_Model
 https://api.wandb.ai/links/nachocheeze/7dlebiuv
+
+#Prec_Model
+https://api.wandb.ai/links/nachocheeze/3h5o4oco
